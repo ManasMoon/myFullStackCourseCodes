@@ -1,0 +1,22 @@
+div {
+          height: 100px;
+          background: aquamarine;
+          width: 500px;
+          border: 2px solid red;
+}
+
+h1{
+          /* border-width: 2px;
+          border-style: dotted;
+          border-color: blueviolet; */
+          border: 2px dotted blueviolet; /* This one line is equivalent to above three lines*/
+          background-color: antiquewhite;
+          width: 300px;
+          text-align: center;
+}
+
+button{
+          margin-bottom: 20px;
+          padding: 30px;
+          border-radius: 50%;
+}
